@@ -1,0 +1,1 @@
+# deploy_dynamic_next.js15_app_to_cPanel
